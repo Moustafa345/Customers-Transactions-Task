@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Customers-Transactions-Task/static/css/main.d8ecb7f5.css",
+    "main.js": "/Customers-Transactions-Task/static/js/main.c6ea7d58.js",
+    "index.html": "/Customers-Transactions-Task/index.html",
+    "main.d8ecb7f5.css.map": "/Customers-Transactions-Task/static/css/main.d8ecb7f5.css.map",
+    "main.c6ea7d58.js.map": "/Customers-Transactions-Task/static/js/main.c6ea7d58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ecb7f5.css",
+    "static/js/main.c6ea7d58.js"
+  ]
+}
