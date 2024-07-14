@@ -46,7 +46,7 @@ const Sidebar = () => {
                 </p>
                 {item.links.map((link) => (
                   <NavLink
-                    to={`/${link.name}`}
+                    to={`/`}
                     key={link.name}
                     onClick={handleCloseSideBar}
                     style={({ isActive }) => ({
