@@ -66,7 +66,6 @@ const App = () => {
               <Routes>
                 {/* pages  */}
                 <Route path="/" element={(<Customers />)} />
-                <Route path="Customers-Transactions-Task/customers" element={<Customers />} />
               </Routes>
             </div>
             <Footer />
